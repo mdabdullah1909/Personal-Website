@@ -1,0 +1,154 @@
+body{
+    margin: 0px auto;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 500px;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 100px;
+    line-height: 10px;
+}
+.name-highlight{
+    color:#c45327;
+}
+.top-space{
+    margin-top: 0px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+p{
+    color: dimgray;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+.hire-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(180deg, rgb(144, 66, 207), rgb(77, 79, 216));
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+}
+.about-text{
+    font-size: 40px;
+    color: #444;
+}
+.cv-buttom{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(180deg, rgb(84, 214, 223), rgb(46, 136, 121));
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+}
+h2{
+    font-size: 35px;
+    font-weight: 900;
+    text-align: center;
+}
+.gradi-highlight{
+    color: rgba(97, 146, 146, 0.527);
+}
+.project-area {
+    background:#f8f8f8;
+    padding: 37px;
+    overflow: hidden;
+    margin: 5%;
+}
+.project-colums {
+    width: 28%;
+    margin:1%;
+    float: left;
+    background: white;
+    padding: 19px;
+    border-radius: 15px;
+}
+.project-colums img{
+    width: 100%;
+}
+h3{
+    font-weight: bold;
+    font-size: 20px;
+    color: #444;
+}
+.client-section {
+    text-align: center;
+    height: 300px;
+    padding-top: 150px;
+}
+.testimonials {
+    padding: 3%;
+    padding-top: 0%;
+    padding-left: 33%;
+    line-height: 10px;
+}
+.client-section h4{
+    font-size: 30px;
+    font-weight: bold;
+    color: tan;
+}
+.service-link{
+    float: left;
+    padding: 3%;
+    padding-top: 0%;
+}
+.service-link h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+.service-link img{
+    width: 100px;
+}
+.inquiry-area{
+    background-image: url(img/Group-chat.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+    height: 300px;
+    text-align: center;
+    width: 100%;
+}
+.work-head{
+    font-size: 40px;
+    margin-top: 0px;
+    line-height: 0px;
+    color: rgb(236, 243, 245);
+}
+.work-in {
+    width: 50%;
+    margin-top: 90px;
+    margin-left: 170px;
+    float: left;
+}
+.chat {
+    width: 50%;
+    margin-right: 100px;
+    float: right;
+    margin-top: -40px;
+}
+footer{
+    margin: 5%;
+    margin-top:0% ;
+    text-align: center;
+}
+footer img{
+    width: 50px;
+    padding: 10px;
+}
+.contact-link{
+    font-size: 30px;
+    margin-top: 0px;
+    line-height: 0px;
+    color: #444;
+}
+
